@@ -5,8 +5,8 @@
 
 <div align="center">
   <a href="https://github.com/victornaca">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victornaca&show_icons=true&theme=radical&hide_border=false&title_color=blue&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victornaca&layout=compact&langs_count=7&theme=radical&title_color=blue"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=victornaca&show_icons=true&theme=radical&hide_border=false&title_color=blue&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victornaca&layout=compact&langs_count=7&theme=radical&title_color=blue"/>
 </div>
 
 ##
